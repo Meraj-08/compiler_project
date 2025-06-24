@@ -1,7 +1,5 @@
 # ⚙️ Mini C Compiler  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
-[![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B&logoColor=white)](https://isocpp.org)  
-[![Tkinter](https://img.shields.io/badge/Python-Tkinter-green?logo=python&logoColor=white)](https://wiki.python.org/moin/TkInter)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  [![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B&logoColor=white)](https://isocpp.org)  [![Tkinter](https://img.shields.io/badge/Python-Tkinter-green?logo=python&logoColor=white)](https://wiki.python.org/moin/TkInter)  
 
 ### PBL Compiler Construction Project
 
