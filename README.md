@@ -14,7 +14,6 @@
 
 ## 📽️ UI Preview  
 ![UI Preview](assetes/compiler.png)  
-*(Add your UI screenshot in the correct path)*
 
 ---
 
@@ -55,9 +54,9 @@ Understanding compiler construction can be challenging. This project serves as a
 
 ---
 
-## 🏗️ App   
-![GUI](assetes/compiler.png)  
-*(Add architecture image if needed)*
+## 🏗️ App  Architecture
+![GUI](assetes/compiler_archi.png)  
+
 
 ---
 
