@@ -13,7 +13,7 @@
 ---
 
 ## 📽️ UI Preview  
-![UI Preview](assetes/compiler-ui.png)  
+![UI Preview](assetes/compiler.png)  
 *(Add your UI screenshot in the correct path)*
 
 ---
